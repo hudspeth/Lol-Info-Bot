@@ -1,0 +1,12 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "League o' Legends! WOOO HOOOO! Let's give it a try... Oh nelly, too many items... too many heroes... too many THINGS!!!! *Uninstall* --- Does that sound familiar?  Well this chat bot is here to help you when you need it the most.  Presenting the 'LEAGUE OF LEGENDS INFORMATION CHAT BOT' (Lol-Info-Bot) for short.  Now when you have a civil discussion with your buds and you want to instantly prove them wrong.  Hit em with the knowledge!",
+  "main": "bot.js",
+  "author": "Trevor Glick(Hudspeth)",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^11.3.0",
+    "winston": "^2.4.0"
+  }
+}
